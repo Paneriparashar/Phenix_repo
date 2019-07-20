@@ -22,4 +22,10 @@ public void setAuthor(String author)
 {
   this.author = author
 }
+
+
+   public void test
+   {
+
+   }
 }
